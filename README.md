@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" width="50">
-  <img src="[https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders](https://www.raghebnotes.com/wp-content/uploads/2018/01/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9.jpg)" width="100%"/>
+  <img src="[https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="" width="100%"/>
 </div>
 
 ---
